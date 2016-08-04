@@ -1,0 +1,61 @@
+_repo: A-Child-s-History-of-England_699
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Townsend, F. H. (Frederick Henry)
+    aliases:
+    - Townsend, F.H.
+    - Townsend, Frederick Henry
+    birthdate: 1868
+    deathdate: 1920
+    gutenberg_agent_id: '9854'
+    url: http://www.gutenberg.org/2009/agents/9854
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: "A Child's History of England is a book by Charles Dickens. It first\
+  \ appeared in serial form in Household Words, running from January 25, 1851 to December\
+  \ 10, 1853. Dickens also published the work in book form in three volumes: the first\
+  \ volume on December 20, 1851; the second, December 25, 1852; and the third, December\
+  \ 24, 1853. Although the volumes were published in December, each was postdated\
+  \ the following year. They bore the titles:\nVolume I. – England from the Ancient\
+  \ Times, to the Death of King John (1852)\nVolume II. – England from the Reign of\
+  \ Henry the Third, to the Reign of Richard the Third (1853)\nVolume III. – England\
+  \ from the Reign of Henry the Seventh to the Revolution of 1688 (1854)\nDickens\
+  \ dedicated the book to \"My own dear children, whom I hope it may help, bye and\
+  \ bye, to read with interest larger and better books on the same subject\". The\
+  \ history covered the period between 50 BC and 1689, ending with a chapter summarising\
+  \ events from then until the accession of Queen Victoria. \nA Child's History was\
+  \ included in the curricula of British School children well into the 20th century,\
+  \ with successive editions published from 1851 to World War II.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf:
+- United Kingdom
+- Children's History
+gutenberg_issued: '1996-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '699'
+  wikidata: Q2032353
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Juvenile literature'
+- !lcc 'DA'
+- GITenberg
+title: A Child's History of England
+url: http://www.gutenberg.org/ebooks/699
+wikipedia:
+- https://en.wikiquote.org/wiki/A_Child%27s_History_of_England
+- https://fr.wikipedia.org/wiki/A_Child%27s_History_of_England
+- https://en.wikipedia.org/wiki/A_Child%27s_History_of_England
+- https://nl.wikipedia.org/wiki/A_Child%27s_History_of_England
+- https://commons.wikimedia.org/wiki/Category:Childs_History_England
